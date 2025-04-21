@@ -1,6 +1,6 @@
 # Raspberry_Proyecto
 
-![](img/)
+![Raspberry](img/raspberry.png)
 
 ÍNDICE
 
