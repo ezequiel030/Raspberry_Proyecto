@@ -4,5 +4,5 @@
 
 </div>
 
-<p align="justify"> En esta práctica vamos a activar un led con un pulsador. Puede usarse el pulsador de botón o
+<p align="center"> En esta práctica vamos a activar un led con un pulsador. Puede usarse el pulsador de botón o
 el capacitivo. </p>
