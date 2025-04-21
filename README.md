@@ -2,6 +2,7 @@
 
 ![Raspberry](img/raspberry.png)
 
+---
 ÍNDICE
 
 1. [PRÁCTICA 1. LED INTERMITENTE](EJERCICIO1.MD)
