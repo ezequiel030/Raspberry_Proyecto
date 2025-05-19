@@ -11,3 +11,4 @@
 4. [PRÁCTICA 4: Detector de presencia con salida a relé](EJERCICIO4.MD)
 5. [PRÁCTICA 5: Detección de objetos con fotointerruptor](EJERCICIO5.MD)
 6. [PRÁCTICA 6: Aviso acústico de inclinación](EJERCICIO6.MD)
+7. [AUTORES](AUTORES.MD)
